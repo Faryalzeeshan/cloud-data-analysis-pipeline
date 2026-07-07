@@ -1,0 +1,11 @@
+{{
+  "name": "SalesIngestionPipeline",
+  "properties": {
+    "activities": [
+      {
+        "name": "CopySalesData",
+        "type": "Copy"
+      }
+    ]
+  }
+}}
