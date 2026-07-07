@@ -1,1 +1,5 @@
-Sample Data
+OrderID,Product,Quantity,Sales
+1,Laptop,2,1800
+2,Mouse,5,150
+3,Keyboard,3,300
+4,Monitor,2,600

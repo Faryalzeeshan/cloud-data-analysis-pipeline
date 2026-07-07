@@ -1,3 +1,6 @@
-# Cloud data analysis pipeline
-This project demonstrates a clou-based data pipeline using Azure Data Factory, 
-Azure Synapse, and Power BI.
+# Cloud Data Analysis Pipeline
+## Task 1: Pipeline Design
+1. Data Ingestion: Azure Data Factory
+2. Data Storage: Azure Blob Storage + Azure Synapse
+3. Data Processing: Azure Synapse Analytics
+4. Data Visualization: Power BI
