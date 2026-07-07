@@ -86,3 +86,9 @@ Estimated monthly cost for running this pipeline on Azure:
 - **Azure Policy**: Enforce naming conventions and compliance rules
 - **Resource Tags**: Environment, Owner, and Project tagging for all resources
 
+## Governance
+- **Azure Cost Management**: Budget alerts, cost analysis, and forecasting
+- **Azure Policy**: Enforce compliance, naming conventions, and resource standards
+- **Resource Tags**: Environment, Owner, Project, and Cost-Center tagging
+- **Resource Locks**: Prevent accidental deletion of critical resources
+- **Azure Advisor**: Recommendations for cost, security, performance, and reliability
