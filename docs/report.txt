@@ -1,0 +1,10 @@
+Task 3: Cost Management
+Estimated Costs:
+- Azure Blob Storage: /usr/bin/bash.02 per GB
+- Azure Data Factory:  per 1000 activities
+- Azure Synapse:  per TB scanned
+Governance: Azure Cost Management, Budget Alerts, Resource Tags
+
+Task 4: Security
+Risks: Unauthorized access, Data breach, Misconfiguration
+Mitigation: Azure AD + RBAC, Azure Key Vault encryption, Firewall rules
