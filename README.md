@@ -70,3 +70,19 @@ Estimated monthly cost for running this pipeline on Azure:
 - **Authentication**: Azure Active Directory for access control
 - **Data Encryption**: Data encrypted at rest in Azure Data Lake
 - **Network Security**: Private endpoints and firewall rules
+## Security
+
+### Security Controls
+- **Azure Active Directory Authentication**: Role-based access for all services
+- **Multi-Factor Authentication (MFA)**: Required for all admin accounts
+- **Role-Based Access Control (RBAC)**: Least privilege access to data
+- **Azure Key Vault**: Secure storage of connection strings and secrets
+- **TLS Encryption**: Data in transit encryption
+- **Storage Encryption**: Data encrypted at rest in Azure Data Lake
+- **Azure Monitor Logging**: Full audit logs and activity tracking
+
+## Governance
+- **Azure Cost Management**: Budget alerts and cost tracking
+- **Azure Policy**: Enforce naming conventions and compliance rules
+- **Resource Tags**: Environment, Owner, and Project tagging for all resources
+
