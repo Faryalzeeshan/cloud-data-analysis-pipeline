@@ -52,3 +52,21 @@ End-to-end cloud data pipeline built with Azure Data Factory, Azure Data Lake, a
 ## How to Run
 1. Import ADF pipeline from `/datafactory/`
 2. Open Power BI dashboard in `/powerbi/`
+## Cost Estimation
+Estimated monthly cost for running this pipeline on Azure:
+
+| Service | Monthly Cost |
+| --- | --- |
+| Azure Data Factory | $30 |
+| Blob Storage | $25 |
+| Synapse Analytics | $200 |
+| Power BI Pro | $10 |
+| Azure Monitor | $10 |
+| **Total** | **$275** |
+
+*Note: Costs are estimates for demo/small scale usage. Actual costs depend on data volume.*
+
+## Security
+- **Authentication**: Azure Active Directory for access control
+- **Data Encryption**: Data encrypted at rest in Azure Data Lake
+- **Network Security**: Private endpoints and firewall rules
